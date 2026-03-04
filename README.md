@@ -1,16 +1,17 @@
-## Hi there 👋
+# About Me
 
-<!--
-**ankitawasthi8858/ankitawasthi8858** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 Hi, I'm **Anki**!
 
-Here are some ideas to get you started:
+## Passion
+💡 **Digitalization**  
+I am passionate about shaping the future through digital solutions and embracing the power of technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Dream
+🚀 **Evolution of Projects**  
+My dream is to continuously evolve and contribute to impactful projects that make a difference.
+
+## Pronouns
+🗣️ **Anki**
+
+## Contact
+✉️ **ankitawasthi198858@gmail.com**
